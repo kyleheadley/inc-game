@@ -1,0 +1,8 @@
+[package]
+name = "IncGame"
+version = "0.1.0"
+authors = ["Kyle Headley <kylenheadley@gmail.com>"]
+
+[dependencies]
+conrod = { version = "0.52", features = ["glium", "winit"] }
+
